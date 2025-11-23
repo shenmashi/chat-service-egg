@@ -17,6 +17,9 @@
 - **缓存**: Redis (可选) - 数据缓存
 
 ### 前端技术栈
+
+**前端项目地址**: [egg-chat-frontend](https://github.com/shenmashi/egg-chat-frontend)
+
 - **框架**: [React 18](https://reactjs.org/) - 用户界面库
 - **UI组件库**: [Ant Design](https://ant.design/) - 企业级 UI 设计语言
 - **状态管理**: React Hooks (useState, useEffect, useCallback)
@@ -182,6 +185,8 @@ npm run db:seed
 ```
 
 ### 3. 前端配置
+
+前端项目独立仓库: [egg-chat-frontend](https://github.com/shenmashi/egg-chat-frontend)
 
 前端项目位于 `frontend/customer-service-chat/` 目录，需要单独配置：
 
